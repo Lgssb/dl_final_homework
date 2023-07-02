@@ -29,7 +29,7 @@ python run_nerf.py --config configs/plant.txt
 ![小区内一绿植视角3](./data_processing/images/19.jpg)
 
 
-#### 三维重建结果
+#### 三维重建结果（.mp4视频）
 
 https://github.com/Lgssb/dl_final_homework/assets/88122140/e1ac8503-4bad-4d63-ac5d-b86f84c8c98b
 
