@@ -18,10 +18,18 @@ python run_nerf.py --config configs/plant.txt
 
 ### Result
 
-#### 训练集部分图片
+#### 训练集部分图片(共19张，展示其中3张)
 
-![小区内一绿植视角1](./data_processing/images/1.png)
+![小区内一绿植视角1](./data_processing/images/1.jpg)
 
+
+![小区内一绿植视角2](./data_processing/images/7.jpg)
+
+
+![小区内一绿植视角3](./data_processing/images/19.jpg)
+
+
+#### 三维重建结果
 
 
 
