@@ -31,6 +31,7 @@ python run_nerf.py --config configs/plant.txt
 
 #### 三维重建结果
 
+https://github.com/Lgssb/dl_final_homework/assets/88122140/e1ac8503-4bad-4d63-ac5d-b86f84c8c98b
 
 
 ### Reference
