@@ -1,7 +1,6 @@
-# Task3
-
-本次实验使用CeiT作为 CNN + Transformer 的网络模型，该模型参数量为5.9M
-使用 ResNet18 作为CNN对比模型，其模型参数量为11.7M
+# Task 2
+本次实验使用CeiT作为 CNN + Transformer 的网络模型
+使用 ResNet18 作为CNN对比模型
 
 ### Train
 
@@ -30,8 +29,3 @@ python train.py -c configs/default.yaml --name train
 python test.py -c configs/defaul.yaml --name test -p checkpoint
 ```
 
-## Reference
-
-https://github.com/chx7514/Data-Augmentations-for-CIFAR100
-
-https://github.com/193814327/transformer-cifar100
